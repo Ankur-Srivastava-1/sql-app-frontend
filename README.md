@@ -14,7 +14,7 @@ We can have more than one tab, 3 tabs are created by default. We can also use th
 
 https://user-images.githubusercontent.com/59230660/170861851-dbfe653b-0ac2-4f0e-8b36-81c87d5d29f5.mp4
 
-
+Note: The above video does not show the dummy file download as the screen recording app was unable to record any popups other than the web app tab but the button can be verified using the netlify app link, although it is just a dummy button.
 
 ## Framework Used
 
@@ -43,7 +43,6 @@ Average Page Load time for mobile is <strong>1.6 seconds</strong>
 ## Additional Features
 
 *Download Button* - made keeping the user in mind, in case the user wants to download the result. For now it just returns a dummy file as all downloading should be handled at the backend in react(as suggested by the developers of react). 
-Note: The above video does not show the dummy file download as the screen recording app was unable to record any popups other than the web app tab but the button can be verified using the netlify app link, although it is just a dummy button.
 
 Line Numbering , Syntax Validation - could not these very helpful features for the user as they require some backend manipulations to work in react. The idea was there.
 
